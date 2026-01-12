@@ -1,0 +1,16 @@
+---
+.title = "Homepage",
+.date = @date("1990-01-01T00:00:00"),
+.author = "Sample Author",
+.layout = "index.shtml",
+.draft = false,
+---
+
+The first iteration of Zig NEWS has been deleted.
+A new version will be released in the future.
+
+In the meantime, if you would like to recover an
+article you posted here in the past, in order to
+post it elsewhere, Loris Cro's GitHub account has
+a dump of all previous articles (I'm not linking
+it explicitly to dissuade malicious readers).
